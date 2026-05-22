@@ -1,12 +1,16 @@
-# Trabajos Prácticos Informática 2 - 2026
+# Trabajos Prácticos Informática II - 2026
 
-Este repositorio es utilizado para la entrega de los Trabajos Prácticos para Informática 2 de la UTNFRA
+Repositorio personal para la entrega de los Trabajos Prácticos de la asignatura **Informática II** de la **Universidad Tecnológica Nacional Facultad Regional Avellaneda**.
 
 ## Profesores:
 - Ing. Gustavo Viard
 - Mg. Ing. Damian Ruben Corbalan
 
 ## Trabajos Prácticos
+| N°  | Tema                         | Enlace                              | Estado        |
+|-----|------------------------------|-------------------------------------|---------------|
+| 1   | Funciones y Archivos         | [TP_1](./TP_1)                      | Finalizado    |
+| 2   | A confirmar                  | [TP_2](./TP_2)                      | Por confirmar |
 
-1. Trabajo Práctico N°1 - Funciones y Archivos. [Link]()
-2. Trabajo Práctico N° -
+## Github Informática II
+Los materiales de la cátedra, los trabajos prácticos y más información se encuentran en el siguiente [Repositorio](https://github.com/DamRCorba/Informatica-2).
