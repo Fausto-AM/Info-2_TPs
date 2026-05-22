@@ -10,7 +10,7 @@ int main(void) {
 
     ordenar_articulos_por_total(articulos, CANT_ARTICULOS);
     mostrar_separador_ordenado();
-    mostrar_inventario(articulos, CANT_ARTICULOS, NULL);
+    mostrar_inventario(articulos, CANT_ARTICULOS, 0);
 
     return 0;
 }
