@@ -28,4 +28,12 @@ void mostrar_bienvenida(void);
 
 void mostrar_separador_ordenado(void);
 
+int leer_linea(char *buffer, int size);
+
+int pedir_entero(const char *mensaje);
+
+int pedir_entero_rango(const char *mensaje, int min, int max);
+
+int pedir_entero_no_negativo(const char *mensaje);
+
 #endif
