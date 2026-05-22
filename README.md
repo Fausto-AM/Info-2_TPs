@@ -8,5 +8,5 @@ Este repositorio es utilizado para la entrega de los Trabajos Prácticos para In
 
 ## Trabajos Prácticos
 
-1. Trabajo Práctico N°1 - Funciones y Archivos. [Link]()
+1. Trabajo Práctico N°1 - Funciones y Archivos. [Link](https://github.com/Fausto-AM/Info-2_TPs/tree/main/TP_1)
 2. Trabajo Práctico N° -
